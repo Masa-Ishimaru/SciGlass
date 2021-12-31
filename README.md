@@ -6,4 +6,4 @@ The largest glass property database contains data for more than 420 thousand gla
 
 # The purpose of this Fork
 
-This Fork contains zipped GComp, SciGK, Reference, and ARHIV files in the SciGlass database provided by EPAM. To use them with SciGlass-Pandas in my another repository, uncompress the zipped files and put them in the data_SciGlass folder in the same repository.
+This Fork contains zipped Gcomp, SciGK, Reference, and ARHIV files in the SciGlass database provided by EPAM. To use them with SciGlass-Pandas in my another repository, uncompress the zipped files and put them in the data_SciGlass folder in the same repository.
